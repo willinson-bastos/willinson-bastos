@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willinson-bastos
-- 👀 I’m interested in learn backend, databases and mobile in the future.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in learn android mobile development.
+- 🌱 I’m currently learning Java and Kotlin.
 
 - 📫 How to reach me willinson.bastos@gmail.com
 
